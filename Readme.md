@@ -16,7 +16,7 @@
 - [ ] MacOS support
 - [ ] Linux support
 - [ ] iOS support
-- [ ] 
+
 
 ## Support Architecture
  - Android
