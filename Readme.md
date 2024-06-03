@@ -11,11 +11,13 @@
 > 随时随地，畅享无限网络自由！体验我们的XPN服务，为您提供卓越的网络保护。加密您的网络连接，保护个人隐私，畅游全球互联网，无拘无束。高速、安全、稳定，助您跨越地域限制，畅通无阻！现在加入，解锁全新的网络体验！
 > 
 ## TODO list
-- [ ] Wireguard protocol support
-- [ ] OpenVPN protocol support
+- [x] Wireguard protocol support
+- [x] Shadowsocks protocol support
 - [ ] MacOS support
 - [ ] Linux support
-- [ ] iOS support
+- [x] iOS support
+- [x] Android support
+- [x] Windows support
 
 
 ## Support Architecture
