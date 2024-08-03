@@ -18,6 +18,7 @@
 - [x] iOS support
 - [x] Android support
 - [x] Windows support
+- [ ] Intergration with https://github.com/mdefy/ngx-markdown-editor?tab=readme-ov-file
 
 
 ## Support Architecture
